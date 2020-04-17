@@ -49,16 +49,16 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
+|__(~)    •||•THE - AFZAAL -OFFICAL------•◈•
+|__\~~) •||•AFZAAL- KING---------------•◈•
 |__(-----\  •◈•------BLACK-TIGER--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
+\033[1;96mAuthor  \033[1;93m: \033[1;92mKing Afzaal
+\033[1;96mInstagram \033[1;93m: \033[1;Flowm.afzaal.7097
+\033[1;96mFacebook  \033[1;93m: \033[1; 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
 \033[1;91m======================================="""
 
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mKing Afzaal
+\033[1;96mInstagram \033[1;93m: \033[1;92mFlowm.afsaal.7097
+\033[1;96mFacebook  \033[1;93m: \033[1;92m  saffi.uddin.12
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/mafzaal7097
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "as7098"
+CorrectPassword = "loveas"
 
 loop = 'true'
 while (loop == 'true'):
