@@ -51,15 +51,15 @@ logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
 |__(~)    •||•THE - AFZAAL -OFFICAL------•◈•
 |__\~~) •||•KING - AFZAAL---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(-----\  •◈•------PAK-TIGER--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKing Afzaal
-\033[1;96mInstagram \033[1;93m: \033[1;m.afzaal.7097
-\033[1;96mFacebook  \033[1;93m: \033[1; saffi.uddin.12
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/mafzaal
+\033[1;94mAuthor  \033[1;93m: \033[1;92mKing Afzaal
+\033[1;94mInstagram \033[1;93m: \033[1; m.afzaal.7097
+\033[1;94mFacebook  \033[1;93m: \033[1;  saffi.uddin.12
+\033[1;94mGithub \033[1;93m: \033[1;92mhttps://github.com/mafzaal
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKing Afzaal
-\033[1;96mInstagram \033[1;93m: \033[1;92mm.afzaal.7097
+\033[1;96mAuthor  \033[1;93m: \033[1;92m King Afzaal
+\033[1;96mInstagram \033[1;93m: \033[1;92m m.afzaal.7097
 \033[1;96mFacebook  \033[1;93m: \033[1;92m saffi.uddin.12
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/mafzaal
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "loveas"
-CorrectPassword = "aslove"
+CorrectUsername = "darklove"
+CorrectPassword = "lovedark"
 
 loop = 'true'
 while (loop == 'true'):
